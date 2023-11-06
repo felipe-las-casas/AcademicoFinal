@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Academico.Models.CursoDisciplina>
+
+<div class=" panel panel-primary">
+    <div class=" card-header text-white bg-warning text-center">
+        Relação de Disciplinas registrados para os Cursos
+    </div>
+    <div class=" panel-body">
+        <table class=" table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Curso.CursoId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Disciplina.DisciplinaId)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in (List<CursoDisciplina>)ViewData["Disciplinas"])
+                {
+                    <tr>
+                        <td>
+                            @item.CursoId
+                        </td>
+                        <td>
+                            @item.DisciplinaId
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <div class=" panel-footer panel-info"></div>
+</div>
