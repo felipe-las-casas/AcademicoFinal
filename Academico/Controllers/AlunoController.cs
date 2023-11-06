@@ -60,6 +60,7 @@ namespace Academico.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddToDiscipline([Bind("AlunoId, DisciplinaId, Ano, Semestre")] AlunoDisciplina alunoDisciplina)
         {
+            // upgrade
             try
             {
                 if (ModelState.IsValid)
