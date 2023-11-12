@@ -14,11 +14,11 @@
         <form asp-action="AddToDiscipline">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="AlunoId" class="control-label"></label>
+                <label>Aluno Nome</label>
                 <select asp-for="AlunoId" class="form-control" asp-items="ViewBag.AlunoId"></select>
             </div>
             <div class="form-group">
-                <label asp-for="DisciplinaId" class="control-label"></label>
+                <label>Disciplina Nome</label>
                 <select asp-for="DisciplinaId" class="form-control" asp-items="ViewBag.DisciplinaId"></select>
             </div>
             <div class="form-group">

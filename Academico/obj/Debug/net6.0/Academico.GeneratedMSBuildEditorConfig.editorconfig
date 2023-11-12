@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Academico
+build_property.RootNamespace = Academico
+build_property.ProjectDir = C:\Users\felip\OneDrive\Área de Trabalho\Academico-master\Academico-master\Academico-main V100\Academico-main\Academico\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\felip\OneDrive\Área de Trabalho\Academico-master\Academico-master\Academico-main V100\Academico-main\Academico
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Aluno/AddToDiscipline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQWRkVG9EaXNjaXBsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Aluno/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Aluno/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Aluno/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Aluno/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Aluno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/AddToDiscipline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cQWRkVG9EaXNjaXBsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Curso/_ComDisciplinas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cX0NvbURpc2NpcGxpbmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Departamento/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Departamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Departamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Departamento/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Departamento/_ComCursos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXF9Db21DdXJzb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Departamento/_ComInstituicao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXF9Db21JbnN0aXR1aWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Disciplina/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Disciplina/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Disciplina/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Disciplina/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Disciplina/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Disciplina/_ComCursos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYVxfQ29tQ3Vyc29zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Instituicao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljYW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Instituicao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljYW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Instituicao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljYW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Instituicao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljYW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Instituicao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljYW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Instituicao/_ComDepartamentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljYW9cX0NvbURlcGFydGFtZW50b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/felip/OneDrive/Área de Trabalho/Academico-master/Academico-master/Academico-main V100/Academico-main/Academico/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hy0lq4zgen
