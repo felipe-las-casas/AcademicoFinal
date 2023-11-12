@@ -37,6 +37,9 @@ namespace Academico.Controllers
             var departamento = await _context.Departamentos
                 .Include(d => d.Instituicao)
                 .FirstOrDefaultAsync(m => m.DepartamentoId == id);
+            
+            departamento = await _context.Departamentos.Include(d => d.Cursos).FirstOrDefaultAsync(c => c.DepartamentoId == id);
+
             if (departamento == null)
             {
                 return NotFound();
